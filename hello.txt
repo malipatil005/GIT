@@ -1,4 +1,8 @@
 hi my name is chandru
 malipatil
 gulbarga
+<<<<<<< HEAD
 ka
+=======
+klb
+>>>>>>> feature
